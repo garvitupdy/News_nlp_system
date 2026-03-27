@@ -1,5 +1,5 @@
-*/You can get the ui file and the classifer contents from this repo but the project is incomplete without the translator and summarizer model 
-which you can find at the following hugging face link https://huggingface.co/garvitupdy/News-NLP-Project/tree/main./*
+#You can get the ui file and the classifer contents from this repo but the project is incomplete without the translator and summarizer model 
+#which you can find at the following hugging face link https://huggingface.co/garvitupdy/News-NLP-Project/tree/main.
  #Python 3.8+ required
 
 
