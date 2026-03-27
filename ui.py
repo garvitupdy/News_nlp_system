@@ -1,3 +1,4 @@
+# command to run the file - streamlit run ui.py (if this does'nt work use - python -m streamlit run ui.py)
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -3269,7 +3270,7 @@ with tab2:
                     </div>
                 """, unsafe_allow_html=True)
             
-        -
+        
             st.markdown("### 📊 Summary Results")
             
             res_col1, res_col2 = st.columns(2)
